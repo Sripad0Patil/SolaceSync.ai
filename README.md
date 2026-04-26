@@ -1,4 +1,4 @@
-# SoulaceSync.AI
+# SolaceSync.AI
 
 A sophisticated AI companion platform where users interact with uniquely personalized virtual partners powered by Groq's fast LLM inference.
 
