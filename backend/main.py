@@ -86,7 +86,7 @@ async def chat(message: ChatMessage):
 
         # Call Groq API with the system prompt
         response = client.chat.completions.create(
-            model="meta-llama/llama-3.3-70b-versatile",  # Fast, efficient model
+            model="openai/gpt-oss-20b",  # Fast, efficient model
             messages=[
                 {
                     "role": "system",

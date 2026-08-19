@@ -10,7 +10,7 @@ A sophisticated AI companion platform where users interact with uniquely persona
 - **Companion Selection**: Pre-built companions (Ember, Julian, Nova) with personality badges
 - **Custom Partner Creation**: Users can create and customize their own AI companions with:
   - Custom names and personas
-  - Personality word selection (spicy, caring, witty, etc.)
+  - Personality word selection 
   - Color theming
   - Trait customization
   - System prompt generation
